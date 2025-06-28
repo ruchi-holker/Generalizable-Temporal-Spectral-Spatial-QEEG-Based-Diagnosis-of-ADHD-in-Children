@@ -1,0 +1,1 @@
+# Generalizable-Temporal-Spectral-Spatial-QEEG-Based-Diagnosis-of-ADHD-in-Children
